@@ -2,7 +2,7 @@
 
 Webpack and Babel project starter peck
 
-Packeg.json {
+package.json {
   "name": "babel_webpack_starter",
   "version": "1.0.0",
   "description": "babel webpack project starter",
